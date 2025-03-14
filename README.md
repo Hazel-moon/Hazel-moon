@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <div align="center" style="flex-direction: column;">
   
 
-  <h3>I'm Hazel Moon!</h3>
-  <p>Thank you for visiting my dev-page.🌝 </p>
+  <h3>I'm Hazel Moon!🌝 </h3>
+  <p>Thank you for visiting my dev-page.</p>
   <p>I'm currently living in Seoul </p>
   <p>If you have any questions, feel free to contact me 📨</p>
 
